@@ -10,9 +10,9 @@ BUT you can turn off this function that is means, system ignore check bpm and ex
 
 ## How to Use it?
 We have 3 ways:
- - Colab
- - Windows Method
- - Python 3.9 and latest version
+ - [Colab](https://github.com/AlphaO612/MyMusic_toBPM/blob/main/README.md#colab)
+ - [Windows Method](https://github.com/AlphaO612/MyMusic_toBPM/blob/main/README.md#windows-method)
+ - [Python 3.9 and latest version](https://github.com/AlphaO612/MyMusic_toBPM/blob/main/README.md#python-39-and-latest-version)
 ### Colab
 This project has colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PScDuCS38axi4McQCLxsJRLbzw6JyexS?usp=sharing)
 
@@ -60,7 +60,7 @@ THE END!
 
 You can copy one of stored folder (like 'Asgard1', 'Asgard2' and etc.) in `<path where steam installed>\Steam\steamapps\common\BPM BULLETS PER MINUTE\WindowsNoEditor\BPM\CustomSoundtrack\`.
 
-## Contacts
+# Contacts
 Please report all issues in section 'Issues'.
 
 Tg: [t.me/arefaste](https://t.me/arefaste)
