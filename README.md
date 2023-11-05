@@ -9,12 +9,15 @@ Other songs what bm isn't period 60-120 skipping!
 BUT you can turn off this function that is means, system ignore check bpm and export like others fine song!
 
 ## How to Use it?
-We have 3 steps
+We have 3 ways:
+ - Colab
+ - Windows Method
+ - Python 3.9 and latest version
 ### Colab
 This project has colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PScDuCS38axi4McQCLxsJRLbzw6JyexS?usp=sharing)
 
 The disadvantage of this method is the low loading and downloading of music to and from colab. 
-### Windows Users
+### Windows Method
 1. Download latest release
 2. Download ffmpeg
     - Open [github releases page ffmpeg](https://github.com/GyanD/codexffmpeg/releases)
