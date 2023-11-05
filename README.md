@@ -1,5 +1,5 @@
 # MyMusic_toBPM
-This script all custom music with format .mp3 or .wav prepare to ready custom music .wav for the game "BPM: Bullet Per Minutes" 
+This script all custom music with format .mp3 or .wav prepare to ready custom music .wav for the game "[BPM: Bullet Per Minutes](https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/)" 
 ## What does its do?
 This script(application) all music from /loads/* format .mp3 and .wav processing to wav, find bpm, check songs's bpm in period 60 - 120 bpm or not. 
 
